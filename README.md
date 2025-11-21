@@ -371,4 +371,3 @@ Este projeto foi desenvolvido exclusivamente para **fins acadêmicos** como part
 
 ---
 
-⭐ **Se este projeto foi útil para seus estudos, considere dar uma estrela no repositório!** ⭐
