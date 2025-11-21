@@ -209,15 +209,9 @@ O sistema possui **fallback automático** para JSON, garantindo funcionamento 10
 **📚 Contexto Acadêmico:**
 - **Disciplina:** Laboratório de Banco de Dados (LBD)
 - **Professor:** Prof. Márcio Inácio
-- **Semestre:** 2025/1
-- **Universidade:** UFMS - Universidade Federal de Mato Grosso do Sul
+- **Semestre:** 2025/2
+- **Universidade:** UFMS - Universidade Federal do Mato Grosso do Sul
 
-**📋 Entregáveis:**
-- ✅ Sistema funcional completo
-- ✅ Relatório técnico profissional  
-- ✅ Apresentação em vídeo (9 minutos)
-- ✅ Scripts SQL para reprodução
-- ✅ Documentação de execução
 
 ---
 
