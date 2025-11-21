@@ -461,7 +461,6 @@ SUPORTE:
 - Log completo de todas operações SQL
 - Documentação completa no código Python
 
-Este script atende completamente aos requisitos acadêmicos de LBD!
 */
 
 SELECT 'Script executado com sucesso! Banco Capivara Game está pronto para uso.' as status;
