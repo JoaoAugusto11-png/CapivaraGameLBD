@@ -330,7 +330,7 @@ O **Capivara Game** demonstra domínio completo dos conceitos de Laboratório de
 
 ---
 
-## 📞 INFORMAÇÕES TÉCNICAS
+## INFORMAÇÕES TÉCNICAS
 
 - **Desenvolvido em:** Python 3.13.5
 - **Banco de Dados:** PostgreSQL 17
@@ -338,4 +338,3 @@ O **Capivara Game** demonstra domínio completo dos conceitos de Laboratório de
 - **Paradigma:** Orientado a objetos com programação procedural
 - **Padrão:** MVC simplificado para ambiente acadêmico
 
-**Este sistema atende integralmente aos requisitos da disciplina LBD!** 🎯

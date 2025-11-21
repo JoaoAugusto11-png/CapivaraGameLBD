@@ -453,7 +453,7 @@ REQUISITOS:
 - PostgreSQL 12+ 
 - Porta padrão: 5433 (ou ajustar no Python)
 - Usuário: postgres
-- Senha: configurada no sistema
+- Senha: configurada no sistema 
 
 SUPORTE:
 - Sistema híbrido: funciona com ou sem PostgreSQL

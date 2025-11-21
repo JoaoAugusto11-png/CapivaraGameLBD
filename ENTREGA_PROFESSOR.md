@@ -145,4 +145,3 @@ Antes de entregar, execute este checklist:
 
 ---
 
-Essa estrutura garante que o professor tenha tudo necessário para avaliar e executar seu projeto! 📦
