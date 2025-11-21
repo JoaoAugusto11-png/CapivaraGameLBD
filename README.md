@@ -97,10 +97,7 @@ USUARIOS              JOGOS                PARTICIPANTES_JOGO
 
 ```
 CapivaraGameLBD/
-├── 📄 README.md                                    # Este arquivo
-├── 📄 README_ENTREGA.md                           # Documentação detalhada
-├── 📄 RELATORIO_TECNICO_LBD.md                    # Relatório acadêmico
-├── 📄 ENTREGA_PROFESSOR.md                        # Guia de entrega
+├── 📄 README.md                                    # Este arquivo              
 ├── 📄 SCRIPT_APRESENTACAO_LBD.md                  # Script para vídeo
 ├── 🐍 capivara_lbd_final.py                       # ⭐ Sistema principal
 ├── 📄 requirements.txt                            # Dependências Python
