@@ -1,0 +1,1130 @@
+[
+  {
+    "id_jogo": 1,
+    "numero_jogadores": 2,
+    "data_inicio": "2025-11-17T15:24:47.569052",
+    "status": "em_andamento",
+    "pontos_meta": 50,
+    "participantes": []
+  },
+  {
+    "id_jogo": 2,
+    "numero_jogadores": 4,
+    "data_inicio": "2025-11-17T15:25:03.217167",
+    "status": "em_andamento",
+    "pontos_meta": 50,
+    "participantes": []
+  },
+  {
+    "id_jogo": 3,
+    "numero_jogadores": 4,
+    "data_inicio": "2025-11-17T15:26:59.289826",
+    "status": "em_andamento",
+    "pontos_meta": 50,
+    "participantes": []
+  },
+  {
+    "id_jogo": 4,
+    "numero_jogadores": 4,
+    "data_inicio": "2025-11-17T15:27:41.563087",
+    "status": "em_andamento",
+    "pontos_meta": 50,
+    "participantes": []
+  },
+  {
+    "id": 5,
+    "jogadores": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "nomes_jogadores": [
+      "Administrator",
+      "Jogador Um",
+      "João Augusto",
+      "fulano da silvA"
+    ],
+    "data_inicio": "2025-11-17T15:29:59.493479",
+    "status": "finalizado",
+    "rodadas": [
+      {
+        "rodada": 1,
+        "ganhador": "fulano da silvA",
+        "pontos": 11,
+        "jogadas": [
+          "Administrator: [0-3]",
+          "Jogador Um: [6-2]",
+          "João Augusto: [1-2]",
+          "fulano da silvA: [3-0]"
+        ]
+      },
+      {
+        "rodada": 2,
+        "ganhador": "João Augusto",
+        "pontos": 15,
+        "jogadas": [
+          "Administrator: [4-3]",
+          "Jogador Um: [4-4]",
+          "João Augusto: [3-6]",
+          "fulano da silvA: [0-1]"
+        ]
+      },
+      {
+        "rodada": 3,
+        "ganhador": "Administrator",
+        "pontos": 8,
+        "jogadas": [
+          "Administrator: [6-3]",
+          "Jogador Um: [5-2]",
+          "João Augusto: [0-3]",
+          "fulano da silvA: [2-0]"
+        ]
+      },
+      {
+        "rodada": 4,
+        "ganhador": "Jogador Um",
+        "pontos": 13,
+        "jogadas": [
+          "Administrator: [3-0]",
+          "Jogador Um: [1-2]",
+          "João Augusto: [1-6]",
+          "fulano da silvA: [2-2]"
+        ]
+      },
+      {
+        "rodada": 5,
+        "ganhador": "Administrator",
+        "pontos": 12,
+        "jogadas": [
+          "Administrator: [6-6]",
+          "Jogador Um: [2-6]",
+          "João Augusto: [3-0]",
+          "fulano da silvA: [6-0]"
+        ]
+      },
+      {
+        "rodada": 6,
+        "ganhador": "João Augusto",
+        "pontos": 7,
+        "jogadas": [
+          "Administrator: [0-4]",
+          "Jogador Um: [6-0]",
+          "João Augusto: [4-4]",
+          "fulano da silvA: [0-6]"
+        ]
+      },
+      {
+        "rodada": 7,
+        "ganhador": "Jogador Um",
+        "pontos": 13,
+        "jogadas": [
+          "Administrator: [4-1]",
+          "Jogador Um: [4-2]",
+          "João Augusto: [2-4]",
+          "fulano da silvA: [3-4]"
+        ]
+      },
+      {
+        "rodada": 8,
+        "ganhador": "João Augusto",
+        "pontos": 9,
+        "jogadas": [
+          "Administrator: [6-0]",
+          "Jogador Um: [4-3]",
+          "João Augusto: [0-3]",
+          "fulano da silvA: [0-0]"
+        ]
+      },
+      {
+        "rodada": 9,
+        "ganhador": "Jogador Um",
+        "pontos": 10,
+        "jogadas": [
+          "Administrator: [6-5]",
+          "Jogador Um: [1-5]",
+          "João Augusto: [6-3]",
+          "fulano da silvA: [1-5]"
+        ]
+      },
+      {
+        "rodada": 10,
+        "ganhador": "fulano da silvA",
+        "pontos": 9,
+        "jogadas": [
+          "Administrator: [5-1]",
+          "Jogador Um: [0-4]",
+          "João Augusto: [2-2]",
+          "fulano da silvA: [2-2]"
+        ]
+      }
+    ],
+    "pontuacao": {
+      "1": 20,
+      "2": 36,
+      "3": 31,
+      "4": 20
+    },
+    "vencedor": "Jogador Um",
+    "data_fim": "2025-11-17T15:30:09.673999"
+  },
+  {
+    "id": 6,
+    "jogadores": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "nomes_jogadores": [
+      "Administrator",
+      "Jogador Um",
+      "João Augusto",
+      "fulano da silvA"
+    ],
+    "data_inicio": "2025-11-17T21:57:20.868013",
+    "status": "finalizado",
+    "rodadas": [
+      {
+        "rodada": 1,
+        "ganhador": "fulano da silvA",
+        "pontos": 14,
+        "jogadas": [
+          "Administrator: [3-6]",
+          "Jogador Um: [6-5]",
+          "João Augusto: [0-4]",
+          "fulano da silvA: [1-5]"
+        ]
+      },
+      {
+        "rodada": 2,
+        "ganhador": "Administrator",
+        "pontos": 5,
+        "jogadas": [
+          "Administrator: [1-0]",
+          "Jogador Um: [4-4]",
+          "João Augusto: [5-1]",
+          "fulano da silvA: [1-3]"
+        ]
+      },
+      {
+        "rodada": 3,
+        "ganhador": "João Augusto",
+        "pontos": 12,
+        "jogadas": [
+          "Administrator: [5-4]",
+          "Jogador Um: [5-6]",
+          "João Augusto: [6-4]",
+          "fulano da silvA: [0-3]"
+        ]
+      },
+      {
+        "rodada": 4,
+        "ganhador": "Jogador Um",
+        "pontos": 8,
+        "jogadas": [
+          "Administrator: [6-1]",
+          "Jogador Um: [6-3]",
+          "João Augusto: [1-4]",
+          "fulano da silvA: [3-5]"
+        ]
+      },
+      {
+        "rodada": 5,
+        "ganhador": "Administrator",
+        "pontos": 8,
+        "jogadas": [
+          "Administrator: [6-4]",
+          "Jogador Um: [0-6]",
+          "João Augusto: [6-4]",
+          "fulano da silvA: [3-1]"
+        ]
+      },
+      {
+        "rodada": 6,
+        "ganhador": "João Augusto",
+        "pontos": 13,
+        "jogadas": [
+          "Administrator: [5-6]",
+          "Jogador Um: [6-1]",
+          "João Augusto: [3-2]",
+          "fulano da silvA: [0-3]"
+        ]
+      },
+      {
+        "rodada": 7,
+        "ganhador": "João Augusto",
+        "pontos": 12,
+        "jogadas": [
+          "Administrator: [6-3]",
+          "Jogador Um: [0-6]",
+          "João Augusto: [4-1]",
+          "fulano da silvA: [5-3]"
+        ]
+      },
+      {
+        "rodada": 8,
+        "ganhador": "fulano da silvA",
+        "pontos": 7,
+        "jogadas": [
+          "Administrator: [6-0]",
+          "Jogador Um: [1-6]",
+          "João Augusto: [4-3]",
+          "fulano da silvA: [2-1]"
+        ]
+      },
+      {
+        "rodada": 9,
+        "ganhador": "João Augusto",
+        "pontos": 12,
+        "jogadas": [
+          "Administrator: [3-2]",
+          "Jogador Um: [0-0]",
+          "João Augusto: [4-6]",
+          "fulano da silvA: [2-4]"
+        ]
+      },
+      {
+        "rodada": 10,
+        "ganhador": "João Augusto",
+        "pontos": 9,
+        "jogadas": [
+          "Administrator: [4-6]",
+          "Jogador Um: [1-1]",
+          "João Augusto: [1-3]",
+          "fulano da silvA: [5-2]"
+        ]
+      }
+    ],
+    "pontuacao": {
+      "1": 13,
+      "2": 8,
+      "3": 58,
+      "4": 21
+    },
+    "vencedor": "João Augusto",
+    "data_fim": "2025-11-17T21:57:31.085159"
+  },
+  {
+    "id": 7,
+    "jogadores": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "nomes_jogadores": [
+      "Administrator",
+      "Jogador Um",
+      "João Augusto",
+      "fulano da silvA"
+    ],
+    "data_inicio": "2025-11-17T23:31:58.315783",
+    "status": "finalizado",
+    "rodadas": [
+      {
+        "rodada": 1,
+        "ganhador": "Jogador Um",
+        "pontos": 7,
+        "jogadas": [
+          "Administrator: [6-2]",
+          "Jogador Um: [1-1]",
+          "João Augusto: [3-0]",
+          "fulano da silvA: [4-6]"
+        ]
+      },
+      {
+        "rodada": 2,
+        "ganhador": "Administrator",
+        "pontos": 15,
+        "jogadas": [
+          "Administrator: [6-3]",
+          "Jogador Um: [2-2]",
+          "João Augusto: [1-2]",
+          "fulano da silvA: [2-0]"
+        ]
+      },
+      {
+        "rodada": 3,
+        "ganhador": "João Augusto",
+        "pontos": 8,
+        "jogadas": [
+          "Administrator: [4-0]",
+          "Jogador Um: [5-4]",
+          "João Augusto: [3-4]",
+          "fulano da silvA: [2-6]"
+        ]
+      },
+      {
+        "rodada": 4,
+        "ganhador": "João Augusto",
+        "pontos": 15,
+        "jogadas": [
+          "Administrator: [2-4]",
+          "Jogador Um: [1-4]",
+          "João Augusto: [3-1]",
+          "fulano da silvA: [2-5]"
+        ]
+      },
+      {
+        "rodada": 5,
+        "ganhador": "Administrator",
+        "pontos": 12,
+        "jogadas": [
+          "Administrator: [6-0]",
+          "Jogador Um: [2-0]",
+          "João Augusto: [2-4]",
+          "fulano da silvA: [4-5]"
+        ]
+      },
+      {
+        "rodada": 6,
+        "ganhador": "fulano da silvA",
+        "pontos": 13,
+        "jogadas": [
+          "Administrator: [2-3]",
+          "Jogador Um: [2-4]",
+          "João Augusto: [5-1]",
+          "fulano da silvA: [1-3]"
+        ]
+      },
+      {
+        "rodada": 7,
+        "ganhador": "Jogador Um",
+        "pontos": 8,
+        "jogadas": [
+          "Administrator: [4-6]",
+          "Jogador Um: [1-1]",
+          "João Augusto: [5-3]",
+          "fulano da silvA: [6-4]"
+        ]
+      },
+      {
+        "rodada": 8,
+        "ganhador": "João Augusto",
+        "pontos": 10,
+        "jogadas": [
+          "Administrator: [5-1]",
+          "Jogador Um: [5-3]",
+          "João Augusto: [0-0]",
+          "fulano da silvA: [0-2]"
+        ]
+      },
+      {
+        "rodada": 9,
+        "ganhador": "fulano da silvA",
+        "pontos": 12,
+        "jogadas": [
+          "Administrator: [2-2]",
+          "Jogador Um: [3-4]",
+          "João Augusto: [2-3]",
+          "fulano da silvA: [5-2]"
+        ]
+      },
+      {
+        "rodada": 10,
+        "ganhador": "fulano da silvA",
+        "pontos": 15,
+        "jogadas": [
+          "Administrator: [0-6]",
+          "Jogador Um: [6-6]",
+          "João Augusto: [1-0]",
+          "fulano da silvA: [0-6]"
+        ]
+      }
+    ],
+    "pontuacao": {
+      "1": 27,
+      "2": 15,
+      "3": 33,
+      "4": 40
+    },
+    "vencedor": "fulano da silvA",
+    "data_fim": "2025-11-17T23:32:08.632772"
+  },
+  {
+    "id": 8,
+    "jogadores": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "nomes_jogadores": [
+      "Administrator",
+      "Jogador Um",
+      "João Augusto",
+      "fulano da silvA"
+    ],
+    "data_inicio": "2025-11-17T23:34:32.591053",
+    "status": "finalizado",
+    "rodadas": [
+      {
+        "rodada": 1,
+        "ganhador": "João Augusto",
+        "pontos": 9,
+        "jogadas": [
+          "Administrator: [1-2]",
+          "Jogador Um: [2-5]",
+          "João Augusto: [0-1]",
+          "fulano da silvA: [5-5]"
+        ]
+      },
+      {
+        "rodada": 2,
+        "ganhador": "João Augusto",
+        "pontos": 13,
+        "jogadas": [
+          "Administrator: [2-3]",
+          "Jogador Um: [3-4]",
+          "João Augusto: [0-2]",
+          "fulano da silvA: [0-2]"
+        ]
+      },
+      {
+        "rodada": 3,
+        "ganhador": "fulano da silvA",
+        "pontos": 10,
+        "jogadas": [
+          "Administrator: [0-4]",
+          "Jogador Um: [4-4]",
+          "João Augusto: [2-2]",
+          "fulano da silvA: [5-4]"
+        ]
+      },
+      {
+        "rodada": 4,
+        "ganhador": "Administrator",
+        "pontos": 11,
+        "jogadas": [
+          "Administrator: [3-5]",
+          "Jogador Um: [6-2]",
+          "João Augusto: [0-0]",
+          "fulano da silvA: [3-3]"
+        ]
+      },
+      {
+        "rodada": 5,
+        "ganhador": "Jogador Um",
+        "pontos": 13,
+        "jogadas": [
+          "Administrator: [0-3]",
+          "Jogador Um: [0-6]",
+          "João Augusto: [4-2]",
+          "fulano da silvA: [6-4]"
+        ]
+      },
+      {
+        "rodada": 6,
+        "ganhador": "João Augusto",
+        "pontos": 14,
+        "jogadas": [
+          "Administrator: [4-5]",
+          "Jogador Um: [1-5]",
+          "João Augusto: [1-1]",
+          "fulano da silvA: [4-3]"
+        ]
+      },
+      {
+        "rodada": 7,
+        "ganhador": "João Augusto",
+        "pontos": 6,
+        "jogadas": [
+          "Administrator: [5-3]",
+          "Jogador Um: [6-6]",
+          "João Augusto: [6-1]",
+          "fulano da silvA: [5-0]"
+        ]
+      },
+      {
+        "rodada": 8,
+        "ganhador": "Jogador Um",
+        "pontos": 7,
+        "jogadas": [
+          "Administrator: [0-5]",
+          "Jogador Um: [6-2]",
+          "João Augusto: [6-2]",
+          "fulano da silvA: [3-1]"
+        ]
+      },
+      {
+        "rodada": 9,
+        "ganhador": "Administrator",
+        "pontos": 11,
+        "jogadas": [
+          "Administrator: [4-2]",
+          "Jogador Um: [4-4]",
+          "João Augusto: [6-5]",
+          "fulano da silvA: [1-3]"
+        ]
+      },
+      {
+        "rodada": 10,
+        "ganhador": "Administrator",
+        "pontos": 10,
+        "jogadas": [
+          "Administrator: [2-6]",
+          "Jogador Um: [1-4]",
+          "João Augusto: [1-6]",
+          "fulano da silvA: [6-4]"
+        ]
+      }
+    ],
+    "pontuacao": {
+      "1": 32,
+      "2": 20,
+      "3": 42,
+      "4": 10
+    },
+    "vencedor": "João Augusto",
+    "data_fim": "2025-11-17T23:34:42.796372"
+  },
+  {
+    "id": 9,
+    "jogadores": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "nomes_jogadores": [
+      "Administrator",
+      "Jogador Um",
+      "João Augusto",
+      "fulano da silvA"
+    ],
+    "data_inicio": "2025-11-18T22:35:29.557910",
+    "status": "finalizado",
+    "rodadas": [
+      {
+        "rodada": 1,
+        "ganhador": "fulano da silvA",
+        "pontos": 6,
+        "jogadas": [
+          "Administrator: [0-6]",
+          "Jogador Um: [3-5]",
+          "João Augusto: [4-3]",
+          "fulano da silvA: [2-3]"
+        ]
+      },
+      {
+        "rodada": 2,
+        "ganhador": "Administrator",
+        "pontos": 12,
+        "jogadas": [
+          "Administrator: [2-6]",
+          "Jogador Um: [1-6]",
+          "João Augusto: [0-2]",
+          "fulano da silvA: [6-6]"
+        ]
+      },
+      {
+        "rodada": 3,
+        "ganhador": "João Augusto",
+        "pontos": 15,
+        "jogadas": [
+          "Administrator: [2-0]",
+          "Jogador Um: [5-1]",
+          "João Augusto: [0-2]",
+          "fulano da silvA: [6-6]"
+        ]
+      },
+      {
+        "rodada": 4,
+        "ganhador": "fulano da silvA",
+        "pontos": 15,
+        "jogadas": [
+          "Administrator: [4-5]",
+          "Jogador Um: [1-6]",
+          "João Augusto: [2-5]",
+          "fulano da silvA: [4-4]"
+        ]
+      },
+      {
+        "rodada": 5,
+        "ganhador": "Jogador Um",
+        "pontos": 12,
+        "jogadas": [
+          "Administrator: [6-6]",
+          "Jogador Um: [1-2]",
+          "João Augusto: [6-3]",
+          "fulano da silvA: [6-0]"
+        ]
+      },
+      {
+        "rodada": 6,
+        "ganhador": "Jogador Um",
+        "pontos": 10,
+        "jogadas": [
+          "Administrator: [1-5]",
+          "Jogador Um: [4-5]",
+          "João Augusto: [1-5]",
+          "fulano da silvA: [4-4]"
+        ]
+      },
+      {
+        "rodada": 7,
+        "ganhador": "João Augusto",
+        "pontos": 5,
+        "jogadas": [
+          "Administrator: [5-0]",
+          "Jogador Um: [2-3]",
+          "João Augusto: [6-0]",
+          "fulano da silvA: [1-3]"
+        ]
+      },
+      {
+        "rodada": 8,
+        "ganhador": "João Augusto",
+        "pontos": 6,
+        "jogadas": [
+          "Administrator: [3-0]",
+          "Jogador Um: [5-0]",
+          "João Augusto: [3-6]",
+          "fulano da silvA: [1-2]"
+        ]
+      },
+      {
+        "rodada": 9,
+        "ganhador": "João Augusto",
+        "pontos": 15,
+        "jogadas": [
+          "Administrator: [0-0]",
+          "Jogador Um: [3-4]",
+          "João Augusto: [1-0]",
+          "fulano da silvA: [2-3]"
+        ]
+      },
+      {
+        "rodada": 10,
+        "ganhador": "João Augusto",
+        "pontos": 15,
+        "jogadas": [
+          "Administrator: [2-4]",
+          "Jogador Um: [3-1]",
+          "João Augusto: [0-1]",
+          "fulano da silvA: [4-3]"
+        ]
+      }
+    ],
+    "pontuacao": {
+      "1": 12,
+      "2": 22,
+      "3": 56,
+      "4": 21
+    },
+    "vencedor": "João Augusto",
+    "data_fim": "2025-11-18T22:35:39.743738"
+  },
+  {
+    "id": 10,
+    "jogadores": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "nomes_jogadores": [
+      "Administrator",
+      "Jogador Um",
+      "João Augusto",
+      "fulano da silvA"
+    ],
+    "data_inicio": "2025-11-20T17:37:18.870224",
+    "status": "finalizado",
+    "rodadas": [
+      {
+        "rodada": 1,
+        "ganhador": "Jogador Um",
+        "pontos": 10,
+        "jogadas": [
+          "Administrator: [0-6]",
+          "Jogador Um: [0-0]",
+          "João Augusto: [6-3]",
+          "fulano da silvA: [2-5]"
+        ]
+      },
+      {
+        "rodada": 2,
+        "ganhador": "Administrator",
+        "pontos": 10,
+        "jogadas": [
+          "Administrator: [0-2]",
+          "Jogador Um: [0-4]",
+          "João Augusto: [4-4]",
+          "fulano da silvA: [5-3]"
+        ]
+      },
+      {
+        "rodada": 3,
+        "ganhador": "Jogador Um",
+        "pontos": 5,
+        "jogadas": [
+          "Administrator: [4-6]",
+          "Jogador Um: [4-0]",
+          "João Augusto: [3-1]",
+          "fulano da silvA: [6-3]"
+        ]
+      },
+      {
+        "rodada": 4,
+        "ganhador": "fulano da silvA",
+        "pontos": 5,
+        "jogadas": [
+          "Administrator: [3-1]",
+          "Jogador Um: [3-2]",
+          "João Augusto: [1-1]",
+          "fulano da silvA: [6-5]"
+        ]
+      },
+      {
+        "rodada": 5,
+        "ganhador": "Jogador Um",
+        "pontos": 5,
+        "jogadas": [
+          "Administrator: [3-2]",
+          "Jogador Um: [1-2]",
+          "João Augusto: [4-1]",
+          "fulano da silvA: [6-4]"
+        ]
+      },
+      {
+        "rodada": 6,
+        "ganhador": "João Augusto",
+        "pontos": 7,
+        "jogadas": [
+          "Administrator: [0-0]",
+          "Jogador Um: [1-0]",
+          "João Augusto: [6-4]",
+          "fulano da silvA: [5-3]"
+        ]
+      },
+      {
+        "rodada": 7,
+        "ganhador": "Administrator",
+        "pontos": 6,
+        "jogadas": [
+          "Administrator: [5-5]",
+          "Jogador Um: [1-0]",
+          "João Augusto: [2-6]",
+          "fulano da silvA: [3-4]"
+        ]
+      },
+      {
+        "rodada": 8,
+        "ganhador": "fulano da silvA",
+        "pontos": 12,
+        "jogadas": [
+          "Administrator: [2-3]",
+          "Jogador Um: [0-5]",
+          "João Augusto: [2-0]",
+          "fulano da silvA: [2-1]"
+        ]
+      },
+      {
+        "rodada": 9,
+        "ganhador": "João Augusto",
+        "pontos": 13,
+        "jogadas": [
+          "Administrator: [5-4]",
+          "Jogador Um: [5-6]",
+          "João Augusto: [4-4]",
+          "fulano da silvA: [5-5]"
+        ]
+      },
+      {
+        "rodada": 10,
+        "ganhador": "fulano da silvA",
+        "pontos": 8,
+        "jogadas": [
+          "Administrator: [2-5]",
+          "Jogador Um: [5-6]",
+          "João Augusto: [3-0]",
+          "fulano da silvA: [0-4]"
+        ]
+      }
+    ],
+    "pontuacao": {
+      "1": 16,
+      "2": 20,
+      "3": 20,
+      "4": 25
+    },
+    "vencedor": "fulano da silvA",
+    "data_fim": "2025-11-20T17:37:29.061015"
+  },
+  {
+    "id": 11,
+    "jogadores": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "nomes_jogadores": [
+      "Administrator",
+      "Jogador Um",
+      "João Augusto",
+      "fulano da silvA"
+    ],
+    "data_inicio": "2025-11-20T21:07:28.666868",
+    "status": "finalizado",
+    "rodadas": [
+      {
+        "rodada": 1,
+        "ganhador": "Administrator",
+        "pontos": 14,
+        "jogadas": [
+          "Administrator: [4-1]",
+          "Jogador Um: [6-2]",
+          "João Augusto: [6-1]",
+          "fulano da silvA: [2-4]"
+        ]
+      },
+      {
+        "rodada": 2,
+        "ganhador": "Jogador Um",
+        "pontos": 10,
+        "jogadas": [
+          "Administrator: [3-3]",
+          "Jogador Um: [1-4]",
+          "João Augusto: [4-6]",
+          "fulano da silvA: [6-0]"
+        ]
+      },
+      {
+        "rodada": 3,
+        "ganhador": "João Augusto",
+        "pontos": 14,
+        "jogadas": [
+          "Administrator: [1-6]",
+          "Jogador Um: [3-2]",
+          "João Augusto: [5-3]",
+          "fulano da silvA: [1-6]"
+        ]
+      },
+      {
+        "rodada": 4,
+        "ganhador": "João Augusto",
+        "pontos": 8,
+        "jogadas": [
+          "Administrator: [6-4]",
+          "Jogador Um: [6-4]",
+          "João Augusto: [4-2]",
+          "fulano da silvA: [6-2]"
+        ]
+      },
+      {
+        "rodada": 5,
+        "ganhador": "fulano da silvA",
+        "pontos": 14,
+        "jogadas": [
+          "Administrator: [3-4]",
+          "Jogador Um: [0-4]",
+          "João Augusto: [3-0]",
+          "fulano da silvA: [6-1]"
+        ]
+      },
+      {
+        "rodada": 6,
+        "ganhador": "Jogador Um",
+        "pontos": 9,
+        "jogadas": [
+          "Administrator: [2-6]",
+          "Jogador Um: [5-5]",
+          "João Augusto: [6-6]",
+          "fulano da silvA: [0-0]"
+        ]
+      },
+      {
+        "rodada": 7,
+        "ganhador": "Administrator",
+        "pontos": 9,
+        "jogadas": [
+          "Administrator: [6-2]",
+          "Jogador Um: [0-4]",
+          "João Augusto: [2-1]",
+          "fulano da silvA: [4-5]"
+        ]
+      },
+      {
+        "rodada": 8,
+        "ganhador": "fulano da silvA",
+        "pontos": 6,
+        "jogadas": [
+          "Administrator: [6-0]",
+          "Jogador Um: [2-1]",
+          "João Augusto: [6-5]",
+          "fulano da silvA: [4-5]"
+        ]
+      },
+      {
+        "rodada": 9,
+        "ganhador": "Administrator",
+        "pontos": 14,
+        "jogadas": [
+          "Administrator: [0-6]",
+          "Jogador Um: [4-1]",
+          "João Augusto: [0-1]",
+          "fulano da silvA: [0-4]"
+        ]
+      },
+      {
+        "rodada": 10,
+        "ganhador": "João Augusto",
+        "pontos": 12,
+        "jogadas": [
+          "Administrator: [0-0]",
+          "Jogador Um: [4-4]",
+          "João Augusto: [5-1]",
+          "fulano da silvA: [5-6]"
+        ]
+      }
+    ],
+    "pontuacao": {
+      "1": 37,
+      "2": 19,
+      "3": 34,
+      "4": 20
+    },
+    "vencedor": "Administrator",
+    "data_fim": "2025-11-20T21:07:38.840672"
+  },
+  {
+    "id": 12,
+    "jogadores": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "nomes_jogadores": [
+      "Administrator",
+      "Jogador Um",
+      "João Augusto",
+      "fulano da silvA"
+    ],
+    "data_inicio": "2025-11-20T21:20:23.949382",
+    "status": "finalizado",
+    "rodadas": [
+      {
+        "rodada": 1,
+        "ganhador": "fulano da silvA",
+        "pontos": 11,
+        "jogadas": [
+          "Administrator: [2-2]",
+          "Jogador Um: [6-3]",
+          "João Augusto: [1-3]",
+          "fulano da silvA: [3-2]"
+        ]
+      },
+      {
+        "rodada": 2,
+        "ganhador": "João Augusto",
+        "pontos": 5,
+        "jogadas": [
+          "Administrator: [6-6]",
+          "Jogador Um: [2-0]",
+          "João Augusto: [2-0]",
+          "fulano da silvA: [1-0]"
+        ]
+      },
+      {
+        "rodada": 3,
+        "ganhador": "João Augusto",
+        "pontos": 7,
+        "jogadas": [
+          "Administrator: [4-3]",
+          "Jogador Um: [2-3]",
+          "João Augusto: [4-2]",
+          "fulano da silvA: [1-2]"
+        ]
+      },
+      {
+        "rodada": 4,
+        "ganhador": "Administrator",
+        "pontos": 14,
+        "jogadas": [
+          "Administrator: [6-3]",
+          "Jogador Um: [3-3]",
+          "João Augusto: [4-4]",
+          "fulano da silvA: [4-6]"
+        ]
+      },
+      {
+        "rodada": 5,
+        "ganhador": "Jogador Um",
+        "pontos": 10,
+        "jogadas": [
+          "Administrator: [2-4]",
+          "Jogador Um: [6-4]",
+          "João Augusto: [1-3]",
+          "fulano da silvA: [0-5]"
+        ]
+      },
+      {
+        "rodada": 6,
+        "ganhador": "fulano da silvA",
+        "pontos": 12,
+        "jogadas": [
+          "Administrator: [6-4]",
+          "Jogador Um: [1-0]",
+          "João Augusto: [2-5]",
+          "fulano da silvA: [6-5]"
+        ]
+      },
+      {
+        "rodada": 7,
+        "ganhador": "Administrator",
+        "pontos": 10,
+        "jogadas": [
+          "Administrator: [5-3]",
+          "Jogador Um: [3-1]",
+          "João Augusto: [1-5]",
+          "fulano da silvA: [2-6]"
+        ]
+      },
+      {
+        "rodada": 8,
+        "ganhador": "Jogador Um",
+        "pontos": 5,
+        "jogadas": [
+          "Administrator: [6-1]",
+          "Jogador Um: [6-2]",
+          "João Augusto: [2-0]",
+          "fulano da silvA: [1-6]"
+        ]
+      },
+      {
+        "rodada": 9,
+        "ganhador": "Administrator",
+        "pontos": 15,
+        "jogadas": [
+          "Administrator: [4-4]",
+          "Jogador Um: [6-5]",
+          "João Augusto: [1-2]",
+          "fulano da silvA: [4-0]"
+        ]
+      },
+      {
+        "rodada": 10,
+        "ganhador": "Administrator",
+        "pontos": 9,
+        "jogadas": [
+          "Administrator: [2-4]",
+          "Jogador Um: [2-4]",
+          "João Augusto: [2-6]",
+          "fulano da silvA: [6-2]"
+        ]
+      }
+    ],
+    "pontuacao": {
+      "1": 48,
+      "2": 15,
+      "3": 12,
+      "4": 23
+    },
+    "vencedor": "Administrator",
+    "data_fim": "2025-11-20T21:20:34.144059"
+  }
+]

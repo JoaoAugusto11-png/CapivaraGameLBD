@@ -1,0 +1,74 @@
+[
+  {
+    "id_usuario": 1,
+    "nome_usuario": "admin",
+    "nome_completo": "Administrator",
+    "email": "admin@capivara.com",
+    "senha_hash": "hash123",
+    "data_cadastro": "2025-11-17T14:27:58.992966",
+    "ativo": true
+  },
+  {
+    "id_usuario": 2,
+    "nome_usuario": "jogador1",
+    "nome_completo": "Jogador Um",
+    "email": "jogador1@test.com",
+    "senha_hash": "hash456",
+    "data_cadastro": "2025-11-17T14:27:58.992989",
+    "ativo": true
+  },
+  {
+    "id_usuario": 3,
+    "nome_usuario": "João",
+    "nome_completo": "João Augusto",
+    "email": "joao123@gmail.com",
+    "senha_hash": "hash_-4068659929591748506",
+    "data_cadastro": "2025-11-17T14:30:35.651736",
+    "ativo": true
+  },
+  {
+    "id_usuario": 4,
+    "nome_usuario": "fulano",
+    "nome_completo": "fulano da silvA",
+    "email": "fulano@gmail.com",
+    "senha_hash": "hash_-563878907744808815",
+    "data_cadastro": "2025-11-17T15:27:29.773662",
+    "ativo": true
+  },
+  {
+    "id_usuario": 5,
+    "nome_usuario": "Beltrano",
+    "nome_completo": "Beltrano da Silva",
+    "email": "beltrano@gmail.com",
+    "senha_hash": "hash_-516941370587182065",
+    "data_cadastro": "2025-11-17T21:56:30.708923",
+    "ativo": true
+  },
+  {
+    "id_usuario": 6,
+    "nome_usuario": "teste123",
+    "nome_completo": "Usuario Teste",
+    "email": "teste@exemplo.com",
+    "senha_hash": "hash_87540183689655049",
+    "data_cadastro": "2025-11-20T17:34:04.655250",
+    "ativo": true
+  },
+  {
+    "id_usuario": 7,
+    "nome_usuario": "teste",
+    "nome_completo": "teste da silva",
+    "email": "teste@gmail.com",
+    "senha_hash": "hash_-584875446566842119",
+    "data_cadastro": "2025-11-20T21:06:22.187684",
+    "ativo": true
+  },
+  {
+    "id_usuario": 8,
+    "nome_usuario": "Lucas",
+    "nome_completo": "Lucas Silva",
+    "email": "lucas@gmail.com",
+    "senha_hash": "hash_-4371771646178183222",
+    "data_cadastro": "2025-11-20T21:19:21.839369",
+    "ativo": true
+  }
+]

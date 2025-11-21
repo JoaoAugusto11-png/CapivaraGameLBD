@@ -1,0 +1,38 @@
+# Arquivos de backup temporários
+backup_capivara_*.json
+
+# Arquivos do sistema
+*.bat
+reset_postgres_password.bat
+
+# Logs e dados temporários
+*.log
+*.tmp
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Dados sensíveis (manter apenas estrutura)
+data/sql_commands.sql
