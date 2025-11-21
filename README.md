@@ -98,7 +98,6 @@ USUARIOS              JOGOS                PARTICIPANTES_JOGO
 ```
 CapivaraGameLBD/
 ├── 📄 README.md                                    # Este arquivo              
-├── 📄 SCRIPT_APRESENTACAO_LBD.md                  # Script para vídeo
 ├── 🐍 capivara_lbd_final.py                       # ⭐ Sistema principal
 ├── 📄 requirements.txt                            # Dependências Python
 ├── 📄 .gitignore                                  # Configuração Git
